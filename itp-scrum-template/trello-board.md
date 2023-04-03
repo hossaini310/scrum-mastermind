@@ -1,3 +1,7 @@
+---
+description: Das perfekte Board für effizientes Scrum-Management
+---
+
 # Trello Board
 
 Dieses Template ist perfekt für alle, die ein Scrum-Projekt erfolgreich managen möchten. Hier zeige ich Dir, wie Du das Board verwenden kannst:
@@ -12,7 +16,7 @@ Das Template besteht aus fünf Spalten, die jeweils verschiedene Phasen des Scru
 
 Ich empfehle Dir, Karten aus Kartenvorlagen zu erstellen. Dazu gibt es zwei Kartenvorlagen: Eine für User Stories und eine für Tasks.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### User Stories
 
@@ -24,7 +28,7 @@ Wenn Du eine User Story erstellst, gib zuerst die **ID der User Story** ein, gef
 
 Wenn Du einen Task erstellst, gib zuerst die **User Story ID** ein, damit Du eine visuelle Verbindung hast, und dann den **Namen des Tasks**. Als Labels werden die Priorität **mit Gering, Regulär, Bedeutend, Dringend, Kritisch 🔥** und das **Risiko mit Zahlen von 1 bis 5** dargestellt. In der Beschreibung gibst Du dann die **Story Points und Post Story Points** an. Außerdem gibt es eine Checkliste für die **Definition of Done**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Um einer Karte beizutreten, klicke einfach auf den Button **"Karte beitreten"**. Wenn Du etwas hochladen möchtest, nutze den Power-Up **"Google Drive"**. Besuche die Seite zur [**Automatisierung**](automatisierung.md) und [**Power-Ups**](power-ups.md), um weitere Informationen zu erhalten.
 
