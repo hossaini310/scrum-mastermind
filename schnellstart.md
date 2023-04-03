@@ -10,7 +10,7 @@ Möchtest Du sofort mit dem Scrum Mastermind Template loslegen? Hier ist eine ku
 Damit du die Anleitung umsetzen kannst, musst du bei Trello angemeldet sein.
 {% endhint %}
 
-1. Öffne den [**Scrum Mastermind Template**](https://trello.com/b/IGeT9eAx/itp-scrum-template) Link
+1. Öffne den [**Scrum Mastermind Template**](https://trello.com/b/IGeT9eAx/) Link
 2. Klicke auf den Button **"Board aus Vorlage erstellen"**
 3.  Gib Deinen Trello Board einen Namen und klick auf **"Erstellen"**
 

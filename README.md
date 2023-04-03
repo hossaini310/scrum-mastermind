@@ -4,7 +4,7 @@ description: zur Dokumentation des Trello Board Templates für Scrum-Projekte!
 
 # 👋 Willkommen
 
-<figure><img src=".gitbook/assets/board.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/board.png" alt=""><figcaption><p><a href="https://trello.com/b/IGeT9eAx/">https://trello.com/b/IGeT9eAx/</a></p></figcaption></figure>
 
 Du bist hier richtig, wenn Du effektiver und erfolgreicher mit Deinen Scrum-Projekten arbeiten möchtest. Das Trello Board Template bietet Dir eine intuitive und leicht verständliche Möglichkeit, Deine Aufgabenliste und Projektdetails einfach im Blick zu behalten und die Zusammenarbeit im Team zu optimieren.
 
