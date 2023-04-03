@@ -22,7 +22,7 @@ Ich empfehle Dir, Karten aus Kartenvorlagen zu erstellen. Dazu gibt es zwei Kart
 
 Wenn Du eine User Story aus der Kartenvorlage erstellst, gib zuerst die **ID der User Story** ein, gefolgt von einem Bindestrich und dann der eigentlichen **User Story**. Die **Priorität** einer User Story kann mit einem der folgenden Labels angegeben werden: **"Gering", "Regulär", "Bedeutend", "Dringend" oder "Kritisch** 🔥**"**. Das **Risiko** kann mit einer **Zahl zwischen 1 und 5** dargestellt werden. Je höher die Zahl, desto höher ist das Risiko. In der Beschreibung kannst Du die **Story Points und Post Story Points** in der bekannten **Fibonacci-Folge von 1 bis 13** angebenAußerdem gibt es drei Checklisten für **Akzeptanzkriterien, Definition of Done und Done**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Tasks
 

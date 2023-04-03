@@ -15,6 +15,9 @@ Möchtest Du sofort mit dem ITP SCRUM Template loslegen? Hier ist eine kurze Anl
 
        <figure><img src=".gitbook/assets/Screenshot 2023-04-03 230439.png" alt=""><figcaption></figcaption></figure>
 4. Passe die Testkarten an Dein Projekt an oder archiviere sie, falls sie nicht benötigt werden.
+   *   So archivierst du alle Karten in einer List
+
+       <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Du bist nicht angemeldet" %}
