@@ -16,12 +16,12 @@ Damit du die Anleitung umsetzen kannst, musst du bei Trello angemeldet sein.
 
     ****
 
-    <figure><img src=".gitbook/assets/Screenshot 2023-04-03 230439.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/board aus vorlage erstellen.png" alt=""><figcaption></figcaption></figure>
 4.  Passe die Testkarten an Dein Projekt an oder archiviere sie, falls sie nicht benötigt werden.
 
     1. So archivierst du alle Karten in einer List
 
-    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/karten archivieren.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Achtung: Bevor Du Karten erstellst, schau unbedingt auf der Seite [**Trello Board**](itp-scrum-template/trello-board.md) vorbei, um das meiste aus dem ITP SCRUM Template herauszuholen.
