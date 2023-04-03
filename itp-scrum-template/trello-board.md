@@ -20,13 +20,13 @@ Ich empfehle Dir, Karten aus Kartenvorlagen zu erstellen. Dazu gibt es zwei Kart
 
 ### User Stories
 
-Wenn Du eine User Story erstellst, gib zuerst die **ID der User Story** ein, gefolgt von einem Bindestrich und dann der eigentlichen **User Story**. Als Labels werden die **Priorität mit Gering, Regulär, Bedeutend, Dringend, Kritisch** 🔥 und das **Risiko mit Zahlen von 1 bis 5** dargestellt. In der Beschreibung gibst Du dann die **Story Points und Post Story Points** an. Außerdem gibt es drei Checklisten für **Akzeptanzkriterien, Definition of Done und Done**.
+Wenn Du eine User Story aus der Kartenvorlage erstellst, gib zuerst die **ID der User Story** ein, gefolgt von einem Bindestrich und dann der eigentlichen **User Story**. Die **Priorität** einer User Story kann mit einem der folgenden Labels angegeben werden: **"Gering", "Regulär", "Bedeutend", "Dringend" oder "Kritisch** 🔥**"**. Das **Risiko** kann mit einer **Zahl zwischen 1 und 5** dargestellt werden. Je höher die Zahl, desto höher ist das Risiko. In der Beschreibung kannst Du die **Story Points und Post Story Points** in der bekannten **Fibonacci-Folge von 1 bis 13** angebenAußerdem gibt es drei Checklisten für **Akzeptanzkriterien, Definition of Done und Done**.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Tasks
 
-Wenn Du einen Task erstellst, gib zuerst die **User Story ID** ein, damit Du eine visuelle Verbindung hast, und dann den **Namen des Tasks**. Als Labels werden die Priorität **mit Gering, Regulär, Bedeutend, Dringend, Kritisch 🔥** und das **Risiko mit Zahlen von 1 bis 5** dargestellt. In der Beschreibung gibst Du dann die **Story Points und Post Story Points** an. Außerdem gibt es eine Checkliste für die **Definition of Done**.
+Wenn Du einen Task aus der Kartenvorlage erstellst, gib zuerst die **User Story ID** ein, damit Du eine visuelle Verbindung hast, und dann den **Namen des Tasks**. Die **Priorität** eines Tasks kann mit einem der folgenden Labels angegeben werden: **"Gering", "Regulär", "Bedeutend", "Dringend" oder "Kritisch** 🔥**"**. Das **Risiko** kann mit einer **Zahl zwischen 1 und 5** dargestellt werden. Je höher die Zahl, desto höher ist das Risiko. In der Beschreibung kannst Du die **Story Points und Post Story Points** in der bekannten **Fibonacci-Folge von 1 bis 13** angeben. Außerdem gibt es eine Checkliste für die **Definition of Done**.
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
