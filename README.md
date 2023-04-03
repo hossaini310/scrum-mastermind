@@ -16,6 +16,6 @@ Wenn Du gerade erst mit dem Trello Board Template beginnst, empfehlen wir Dir, z
 
 In der [**Tipps & Tricks**](broken-reference) Seite findest Du zahlreiche nützliche Ratschläge, wie Du das Trello Board Template noch besser nutzen kannst.
 
-## Feedback und Fragen
+## Fragen & Feedback
 
-Hast Du Fragen oder Vorschläge zur Verbesserung des Trello Board Templates für Scrum-Projekte? Her damit! Ich freue mich über Dein Feedback und helfe Dir gerne weiter. Schreibe mir einfach eine E-Mail an [**Hossaini.h03@htlwienwest.at**](mailto:Hossaini.h03@htlwienwest.at?subject=ITP%20SCRUM%20Template) oder Du kannst meine Webseite [**Hossaini.dev**](https://hossaini.dev/) besuchen, um weitere Kontaktmöglichkeiten zu finden.
+Hast Du Fragen oder Feedback zur Verbesserung des Trello Board Templates für Scrum-Projekte? Her damit! Ich freue mich über Dein Feedback und helfe Dir gerne weiter. Schreibe mir einfach eine E-Mail an [**Hossaini.h03@htlwienwest.at**](mailto:Hossaini.h03@htlwienwest.at?subject=ITP%20SCRUM%20Template) oder Du kannst meine Webseite [**Hossaini.dev**](https://hossaini.dev/) besuchen, um weitere Kontaktmöglichkeiten zu finden.
