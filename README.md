@@ -1,5 +1,5 @@
 ---
-description: Willkommen zur Dokumentation des Trello Board Templates für Scrum-Projekte!
+description: zur Dokumentation des Trello Board Templates für Scrum-Projekte!
 ---
 
 # 👋 Willkommen

@@ -1,3 +1,7 @@
+---
+description: In wenigen Schritten zum erfolgreichen Projektmanagement
+---
+
 # 🚀 Schnellstart
 
 Möchtest Du sofort mit dem ITP SCRUM Template loslegen? Hier ist eine kurze Anleitung, die Dir dabei helfen wird:
