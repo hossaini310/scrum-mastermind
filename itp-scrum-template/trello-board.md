@@ -6,7 +6,7 @@ description: Das perfekte Board für effizientes Scrum-Management
 
 Dieses Template ist perfekt für alle, die ein Scrum-Projekt erfolgreich managen möchten. Hier zeige ich Dir, wie Du das Board verwenden kannst:
 
-## Die Spalten
+## Spalten
 
 Das Template besteht aus fünf Spalten, die jeweils verschiedene Phasen des Scrum-Prozesses darstellen: Product Backlog, Sprint Backlog, In Progress, Sprint Review (Done)🙌 und Closed.
 
