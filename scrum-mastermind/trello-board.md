@@ -44,6 +44,6 @@ Um einer Karte beizutreten, klicke einfach auf den Button "Karte beitreten". Wen
 
 ## Fragen & Feedback
 
-Ich hoffe, dass Dir diese Informationen helfen, das ITP Scrum Template erfolgreich zu nutzen. Wenn Du weitere Fragen hast oder Feedback geben möchtest, zögere nicht, mich zu kontaktieren. Schreibe mir einfach eine E-Mail an [**Hossaini.h03@htlwienwest.at**](mailto:Hossaini.h03@htlwienwest.at?subject=ITP%20SCRUM%20Template) oder Du kannst meine Webseite [**Hossaini.dev**](https://hossaini.dev/) besuchen, um weitere Kontaktmöglichkeiten zu finden.
+Ich hoffe, dass Dir diese Informationen helfen, das Template erfolgreich zu nutzen. Wenn Du weitere Fragen hast oder Feedback geben möchtest, zögere nicht, mich zu kontaktieren. Schreibe mir einfach eine E-Mail an [**Hossaini.h03@htlwienwest.at**](mailto:Hossaini.h03@htlwienwest.at?subject=ITP%20SCRUM%20Template) oder Du kannst meine Webseite [**Hossaini.dev**](https://hossaini.dev/) besuchen, um weitere Kontaktmöglichkeiten zu finden.
 
 {% embed url="https://hossaini.dev/" %}
