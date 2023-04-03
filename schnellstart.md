@@ -7,10 +7,6 @@ Möchtest Du sofort mit dem ITP SCRUM Template loslegen? Hier ist eine kurze Anl
 3. Benenne das Board auf Dein Projektname um.
 4. Passe die Testkarten an Dein Projekt an oder archiviere sie, falls sie nicht benötigt werden.
 
-> fdsfsdfsdfsdf
->
-> das
-
-Los geht's! Du hast jetzt alles, was Du brauchst, um erfolgreich ein Scrum-Projekt zu managen.
-
-Was der Board findest Du auf der Trello Board Seite
+{% hint style="info" %}
+Achtung: Bevor Du Karten erstellst, schau unbedingt auf der Seite [**Trello Board**](itp-scrum-template/trello-board.md) vorbei, um das meiste aus dem ITP SCRUM Template herauszuholen.
+{% endhint %}
