@@ -12,3 +12,4 @@
 ## 💡 Tipps & Tricks
 
 * [Design](tipps-and-tricks/design.md)
+* [Features](tipps-and-tricks/features.md)
