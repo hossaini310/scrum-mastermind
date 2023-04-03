@@ -1,6 +1,6 @@
 # Design
 
-Willkommen auf unserer Trello-Tipps und Tricks-Seite, auf der wir Dir zeigen, wie Du das Beste aus Trello herausholen kannst. Mit unseren einfachen Tricks und nützlichen Tipps kannst Du Deine Trello-Erfahrung optimieren und produktiver arbeiten.
+Hier zeige ich Dir, wie Du das Beste aus Trello herausholen kannst. Mit diesen einfachen Tricks und nützlichen Tipps kannst Du Deine Trello-Erfahrung optimieren und produktiver arbeiten.
 
 ## Tipp 1: Moderner Look
 
