@@ -6,15 +6,15 @@ description: zur Dokumentation des Trello Board Templates für Scrum-Projekte!
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Du bist hier richtig, wenn Du effektiver und erfolgreicher mit Deinen Scrum-Projekten arbeiten möchtest. Das Trello Board Template bietet Dir eine intuitive und leicht verständliche Möglichkeit, Deine Aufgabenliste, Zeitplanung und Projektdetails einfach im Blick zu behalten und die Zusammenarbeit im Team zu optimieren.
+Du bist hier richtig, wenn Du effektiver und erfolgreicher mit Deinen Scrum-Projekten arbeiten möchtest. Das Trello Board Template bietet Dir eine intuitive und leicht verständliche Möglichkeit, Deine Aufgabenliste und Projektdetails einfach im Blick zu behalten und die Zusammenarbeit im Team zu optimieren.
 
 ## Los geht's!
 
-Wenn Du gerade erst mit dem Trello Board Template beginnst, empfehlen wir Dir, zuerst unser [**Schnellstart** ](schnellstart.md)zu lesen. Hier findest Du alle Schritte, die Du benötigst, um das Template in kürzester Zeit einzurichten und mit Deiner Arbeit zu beginnen.
+Wenn Du gerade erst mit dem Trello Board Template beginnst, empfehle ich Dir, zuerst unser [**Schnellstart** ](schnellstart.md)zu lesen. Hier findest Du alle Schritte, die Du benötigst, um das Template in kürzester Zeit einzurichten und mit Deiner Arbeit zu beginnen.
 
 ## Tipps & Tricks
 
-In der [**Tipps & Tricks**](broken-reference) Seite findest Du zahlreiche nützliche Ratschläge, wie Du das Trello Board Template noch besser nutzen kannst.
+In der [**Tipps & Tricks**](broken-reference) Seite findest Du zahlreiche nützliche Ratschläge, wie Du das Trello Board Template noch besser nutzen möchtest.
 
 ## Fragen & Feedback
 
