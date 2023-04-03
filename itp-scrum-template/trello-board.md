@@ -6,19 +6,19 @@ Dieses Template ist perfekt für alle, die ein Scrum-Projekt erfolgreich managen
 
 Das Template besteht aus fünf Spalten, die jeweils verschiedene Phasen des Scrum-Prozesses darstellen: Product Backlog, Sprint Backlog, In Progress, Sprint Review (Done)🙌 und Closed.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Kartenvorlagen
 
 Ich empfehle Dir, Karten aus Kartenvorlagen zu erstellen. Dazu gibt es zwei Kartenvorlagen: Eine für User Stories und eine für Tasks.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### User Stories
 
 Wenn Du eine User Story erstellst, gib zuerst die **ID der User Story** ein, gefolgt von einem Bindestrich und dann der eigentlichen **User Story**. Als Labels werden die **Priorität mit Gering, Regulär, Bedeutend, Dringend, Kritisch** 🔥 und das **Risiko mit Zahlen von 1 bis 5** dargestellt. In der Beschreibung gibst Du dann die **Story Points und Post Story Points** an. Außerdem gibt es drei Checklisten für **Akzeptanzkriterien, Definition of Done und Done**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Tasks
 
