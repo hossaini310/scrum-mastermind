@@ -14,14 +14,14 @@ Damit du die Anleitung umsetzen kannst, musst du bei Trello angemeldet sein.
 2. Klicke auf den Button **"Board aus Vorlage erstellen"**
 3.  Gib Deinen Trello Board einen Namen und klick auf **"Erstellen"**
 
-    ****
+
 
     <figure><img src=".gitbook/assets/board aus vorlage erstellen.png" alt=""><figcaption></figcaption></figure>
 4.  Passe die Testkarten an Dein Projekt an oder archiviere sie, falls sie nicht benötigt werden.
 
-    1. So archivierst du alle Karten in einer List
 
-    <figure><img src=".gitbook/assets/karten archivieren.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src=".gitbook/assets/karten archivieren.png" alt=""><figcaption><p>So archivierst du alle Karten in einer List</p></figcaption></figure>
 
 {% hint style="info" %}
 Achtung: Bevor Du Karten erstellst, schau unbedingt auf der Seite [**Trello Board**](scrum-mastermind/trello-board.md) vorbei, um das meiste aus dem Template herauszuholen.
