@@ -8,6 +8,16 @@ description: zur Dokumentation des Trello Board Templates für Scrum-Projekte!
 
 Du bist hier richtig, wenn Du effektiver und erfolgreicher mit Deinen Scrum-Projekten arbeiten möchtest. Das Trello Board Template bietet Dir eine intuitive und leicht verständliche Möglichkeit, Deine Aufgabenliste und Projektdetails einfach im Blick zu behalten und die Zusammenarbeit im Team zu optimieren.
 
+## Warum ist dieses Trello-Template sinnvoll?
+
+1. Du sparst Zeit, da das Board bereits vorgefertigt ist.
+2. Du erhältst Vorlagen für Cards von User Stories und Tasks.
+3. Es gibt eine automatische Sortierung, die Dir eine effiziente Strukturierung des Boards ermöglicht.
+4. Du hast einen zusätzlichen Bereich für Projektbeschreibungen, um wichtige Informationen übersichtlich darzustellen.
+5. Du kannst Dokumente direkt von Google Drive in das Board hochladen
+
+Ich verstehe, dass jeder von Euch ein solches Board selbst erstellen kann, aber das Ziel dieses Templates ist es, Zeit zu sparen.
+
 ## Los geht's!
 
 Wenn Du gerade erst mit dem Trello Board Template beginnst, empfehle ich Dir, zuerst unser **Schnellstart** zu lesen. Hier findest Du alle Schritte, die Du benötigst, um das Template in kürzester Zeit einzurichten und mit Deiner Arbeit zu beginnen.
