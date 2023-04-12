@@ -10,7 +10,13 @@ In diesem Board gibt es zwei Power-Ups, die Dir dabei helfen, Deine Arbeit zu ve
 
 ## Read Me
 
-Das zweite Power-Up ist "Read Me". Hier hast Du die Möglichkeit, eine kurze Projektbeschreibung zu erstellen. Mit nur einem Klick können alle Teammitglieder auf diese Beschreibung zugreifen und sich über das Projekt informieren.
+Mit "Read Me" hast Du die Möglichkeit, eine kurze Projektbeschreibung zu erstellen. Mit nur einem Klick können alle Teammitglieder auf diese Beschreibung zugreifen und sich über das Projekt informieren.
+
+## Limiter
+
+Um trotz einer großen Anzahl von Karten die Übersicht zu behalten, kann der "Limiter" sehr hilfreich sein. Wenn Du viele Karten erstellst, ermöglicht es Dir der "Limiter", schnell zu sehen, wie viele Karten Du in jeder Kategorie hast.&#x20;
+
+<figure><img src="../.gitbook/assets/counter.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Besuche jetzt die Tipps und Tricks Seite und erfahre, wie Du Deine Arbeit noch effizienter gestalten kannst.
