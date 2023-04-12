@@ -4,11 +4,17 @@
 
 Wenn Du ein agiles Scrum-Projekt mit Trello verwaltest, möchtest Du Dich darauf konzentrieren, Deine Aufgaben schnell und effizient zu erledigen. Die Automatisierung von Trello hilft Dir dabei, indem es die Sortierung von Karten automatisch übernimmt.
 
-## Automatische Sortierung
 
-Ich habe schon ein paar Regeln, die für die richtige Sortierung zuständig ist. Wenn eine Karte von einer Liste "Product Backlog", "Sprint Backlog", "In Progress" oder "Sprint Review (Done)🙌" von irgendjemandem hinzugefügt wird, wird sie automatisch nach **Priorität** und **Risiko** sortiert. Wenn eine Karte von jemandem in die Liste "Closed" verschoben wird, wird sie automatisch nach der Zeit in der Liste absteigend sortiert.
 
 ## Buttons
+
+### Automatische Sortierung
+
+Es gibt einen speziellen Button, der für die Sortierung aller Karten auf dem Board zuständig ist. Wenn Du diesen Button anklickst, werden die Karten auf dem Board automatisch nach Priorität, Risiko und Zeit sortiert. Die Karten behalten ihre Sortierung bei, bis der "Sortierungs-Button" erneut betätigt wird - auch wenn Änderungen an den Karten vorgenommen werden.
+
+<figure><img src="../.gitbook/assets/sort.png" alt=""><figcaption></figcaption></figure>
+
+### Karte beitreten
 
 Zusätzlich gibt es einen praktischen "Karte beitreten"-Button, mit dem Du mühelos einer Karte beitreten kannst.
 
@@ -16,5 +22,5 @@ Zusätzlich gibt es einen praktischen "Karte beitreten"-Button, mit dem Du mühe
 
 Wenn Du spezifische Anforderungen hast, die über die bereits vorhandenen Regeln hinausgehen, kannst Du auch Deine eigenen Automatisierungsregeln erstellen. Das ist ganz einfach - klicke einfach auf den entsprechenden Button (⬇️siehe Screenshot⬇️) und lege Deine eigenen Regeln fest. So kannst Du Deine Arbeit noch effektiver gestalten und Dich auf das Wesentliche konzentrieren.
 
-<figure><img src="../.gitbook/assets/eigene automatisierung.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/auto.png" alt=""><figcaption></figcaption></figure>
 
