@@ -1,6 +1,6 @@
 # Automatisierung
 
-<figure><img src="../.gitbook/assets/automatisierung.png" alt=""><figcaption><p>Bild Quelle: <a href="https://blog.trello.com/de/prozessautomatisierung">https://blog.trello.com/de/prozessautomatisierung</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/automatisierung.jpg" alt=""><figcaption><p>Bild Quelle: <a href="https://blog.trello.com/de/prozessautomatisierung">https://blog.trello.com/de/prozessautomatisierung</a></p></figcaption></figure>
 
 Wenn Du ein agiles Scrum-Projekt mit Trello verwaltest, möchtest Du Dich darauf konzentrieren, Deine Aufgaben schnell und effizient zu erledigen. Die Automatisierung von Trello hilft Dir dabei, indem es die Sortierung von Karten automatisch übernimmt.
 
