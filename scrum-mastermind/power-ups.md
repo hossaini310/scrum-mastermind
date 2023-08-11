@@ -16,7 +16,7 @@ Mit "Read Me" hast Du die Möglichkeit, eine kurze Projektbeschreibung zu erstel
 
 Um trotz einer großen Anzahl von Karten die Übersicht zu behalten, kann der "Limiter" sehr hilfreich sein. Wenn Du viele Karten erstellst, ermöglicht es Dir der "Limiter", schnell zu sehen, wie viele Karten Du in jeder Kategorie hast.&#x20;
 
-<figure><img src="../.gitbook/assets/counter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mastermind-09.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Besuche jetzt die Tipps und Tricks Seite und erfahre, wie Du Deine Arbeit noch effizienter gestalten kannst.

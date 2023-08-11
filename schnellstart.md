@@ -19,7 +19,7 @@ Damit du die Anleitung umsetzen kannst, musst du bei Trello angemeldet sein.
 
 
 
-    <figure><img src=".gitbook/assets/create-board.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/mastermind-04.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Achtung: Bevor Du Karten erstellst, schau unbedingt auf der Seite [**Trello Board**](scrum-mastermind/trello-board.md) vorbei, um das meiste aus dem Template herauszuholen.
